@@ -13,3 +13,13 @@ This project aims to explore the ground state properties of the quantum Ising mo
 This project offers a hands-on approach to the study of the Ising model and its properties, as well as an exploration of using machine learning techniques to solve complex quantum mechanical problems.
 
 Feel free to modify and expand this introduction as needed to better suit your project's goals and scope.
+
+
+## Dependencies
+
+This project requires the following software to run:
+
+- Python 3.11
+- NumPy
+
+Make sure you have the required dependencies installed before running the project.
