@@ -23,3 +23,9 @@ This project requires the following software to run:
 - NumPy
 
 Make sure you have the required dependencies installed before running the project.
+
+## Reference:
+
+<https://www.science.org/doi/10.1126/science.aag2302>
+
+<https://arxiv.org/abs/1606.02318>
